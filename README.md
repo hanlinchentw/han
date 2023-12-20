@@ -2,7 +2,7 @@
 
 _Software engineer based in Taiwan_ <br>
 
-[Email](hanlin.chen.tw@gmail,com) / [LinkedIn](https://www.linkedin.com/in/han-lin-chen/) / [GitHub](https://github.com/hanlinchentw)
+[Email](hanlin.chen.tw@gmail.com) / [LinkedIn](https://www.linkedin.com/in/han-lin-chen/) / [GitHub](https://github.com/hanlinchentw)
 
 ## 👩🏼‍💻 Engineering Experience
 
