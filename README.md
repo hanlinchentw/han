@@ -53,6 +53,7 @@ MATLAB
 | C++                    | CoreData                 |          |
 |                        | fastlane                 |          |
 |                        | Git/Gitflow              |          |
+
 <br><br>
 
 ## 💬 Languages
