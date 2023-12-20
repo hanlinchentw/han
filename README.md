@@ -54,7 +54,7 @@ MATLAB
 | Swift                  | UIKit / SwiftUI          | XCTest   |
 | Objective-C            | React / React Native     | UI Test  |
 | TypeScript/JavaScript  | RxSwift / Combine        | Jest     |
-| Python                 | Combine                  |          |
+| Python                 | Combine                  | Earl Grey|
 | C++                    | CoreData / Realm         |          |
 |                        | fastlane                 |          |
 |                        | Git/Gitflow              |          |
