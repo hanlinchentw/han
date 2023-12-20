@@ -48,7 +48,8 @@ An Ethereum wallet. Users can import or create wallets and do transactions. <br>
 **[Food delivery optimization](https://www.dropbox.com/s/mwvozbgq6snpt68/Optimize%20the%20Path%20of%20Food%20Delivery.pdf?dl=0)** <br>
 Applying optimization techniques, such as the Monte Carlo and Genetic algorithms, to determine the most effective route and optimize the delivery man's time and fee. <br>
 > MATLAB
-<br><br>
+
+<br>
 
 ## ✨ Skill set
 - **Swift/Objective-C**
@@ -68,7 +69,7 @@ Applying optimization techniques, such as the Monte Carlo and Genetic algorithms
 **Mandarin**: Native
 <br><br>
 
-## 👩🏼‍🎓 Education
+## 👨‍🎓 Education
 
 **Master of Science** in Mechnical Engineering<br>
 [National Taiwan University](https://www.ntu.edu.tw) - Taipei, Taiwan _(2019 - 2021)_
