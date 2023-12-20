@@ -49,16 +49,15 @@ MATLAB
 <br><br>
 
 ## ✨ Skill set
-| Programming Language  | Frameworks/Tools         | Testing  |
-|------------------------|--------------------------|----------|
-| Swift                  | UIKit / SwiftUI          | XCTest   |
-| Objective-C            | React / React Native     | UI Test  |
-| TypeScript/JavaScript  | RxSwift / Combine        | Jest     |
-| Python                 | Combine                  | Earl Grey|
-| C++                    | CoreData / Realm         |          |
-|                        | fastlane                 |          |
-|                        | Git/Gitflow              |          |
-
+- **Swift/Objective-C**
+  - Frameworks/Tools: UIKit / SwiftUI / RxSwift / Combine
+  - Testing: XCTest / UI Test / [Earl Grey](https://github.com/google/EarlGrey)
+- **TypeScript/JavaScript**
+  - Frameworks/Tools: React / React Native
+  - Testing: Jest
+- **Python**
+- **C++**
+- Other tools: fastlane / Git/Gitflow
 <br><br>
 
 ## 💬 Languages
