@@ -33,6 +33,11 @@ A food selection application that helps users explore the nearby restaurants and
 UIKit + SwiftUI, Combine, MVVM, Moya, Alamofire, CoreData
 <br>
 
+**[My Pokemon](https://github.com/hanlinchentw/MyPokemon)** <br>
+System design practice. Well-Modularized iOS App <br>
+UIKit, MVVM, Coordinator, Realm
+<br>
+
 **[Carnival Wallet](https://github.com/hanlinchentw/CarnivalWallet)** <br>
 An Ethereum wallet. Users can import or create wallets and do transactions. <br>
 UIKit + SwiftUI, MVVM, Coordinator, CoreData, Keychain, AES
@@ -50,7 +55,7 @@ MATLAB
 | Objective-C            | React / React Native     | UI Test  |
 | TypeScript/JavaScript  | RxSwift / Combine        | Jest     |
 | Python                 | Combine                  |          |
-| C++                    | CoreData                 |          |
+| C++                    | CoreData / Realm         |          |
 |                        | fastlane                 |          |
 |                        | Git/Gitflow              |          |
 
