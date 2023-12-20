@@ -65,7 +65,7 @@ Applied optimization techniques, such as the Monte Carlo and Genetic algorithms,
 
 ## 💬 Languages
 
-**English**: TOEIC 925 <br>
+**English**: Fluent / TOEIC 925 <br>
 **Mandarin**: Native
 <br><br>
 
