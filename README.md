@@ -8,6 +8,11 @@ GitHub: https://github.com/hanlinchentw
 
 ## 👩🏼‍💻 Engineering Experience
 
+**iOS Engineer** @ [Synology](https://www.synology.com/) _(Jan 2024 - )_ <br>
+Private cloud for unstructured data with the industry-leading NAS solutions.
+<br><br>
+
+
 **iOS Engineer** @ [foodpanda](https://foodpanda.com/) _(July 2023 - Dec 2023)_ <br>
 food delivery service
 > Swift, Objective-C, VIPER, RxSwift, GraphQL
