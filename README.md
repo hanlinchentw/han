@@ -1,6 +1,7 @@
 # Chen, Han-Lin(Leo)
 
-_Software engineer based in Taiwan_ <br>
+_A dedicated software engineer based in Taiwan, specializing in iOS development with a focus on creating impactful solutions. <br> 
+Exceling in establishing 100% mockable test environments to ensure comprehensive test automation and robust software quality assurance._ <br>
 
 Email: hanlin.chen.tw@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/han-lin-chen/ <br>
