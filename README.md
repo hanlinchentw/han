@@ -1,84 +1,58 @@
-# Chen, Han-Lin(Leo)
+# Han-Lin (Leo) Chen  
+Product-focused software engineer specializing in mobile and cloud-integrated platforms, with expertise in test automation and large-scale system development.  
+Currently pursuing an M.S. in Mobile and IoT Engineering at Carnegie Mellon University.
 
-_A dedicated software engineer based in Taiwan, specializing in iOS development with a focus on creating impactful solutions. <br> 
-Exceling in establishing 100% mockable test environments to ensure comprehensive test automation and robust software quality assurance._ <br>
+📧 Email: [leoc3@andrew.cmu.edu](mailto:leoc3@andrew.cmu.edu)  
+🔗 LinkedIn: [https://www.linkedin.com/in/han-lin-chen/](https://www.linkedin.com/in/han-lin-chen/)  
+🐙 GitHub: [https://github.com/hanlinchentw](https://github.com/hanlinchentw)  
 
-Email: hanlin.chen.tw@gmail.com <br>
-LinkedIn: https://www.linkedin.com/in/han-lin-chen/ <br>
-GitHub: https://github.com/hanlinchentw
+---
 
-## 👩🏼‍💻 Engineering Experience
+## Education  
+**Carnegie Mellon University** — M.S. Mobile and IoT Engineering (Aug 2025 - Dec 2026)  
+**National Taiwan University** — M.S. Mechanical Engineering (Sept 2019 - Oct 2021)  
+**National Central University** — B.S. Mechanical Engineering (Sept 2015 - Jun 2019)  
 
-**iOS Engineer** @ [Synology](https://www.synology.com/) _(Jan 2024 - )_ <br>
-Private cloud for unstructured data with the industry-leading NAS solutions.
-<br><br>
+---
 
+## Experience  
 
-**iOS Engineer** @ [foodpanda](https://foodpanda.com/) _(July 2023 - Dec 2023)_ <br>
-food delivery service
-> Swift, Objective-C, VIPER, RxSwift, GraphQL
-  - Integrated Order History page in Tab bar architecture
-  - Increased Test automation coverage from 58% to 100%
-  - Integrated Download task in iOS b2c App
-  - Initiated iOS Live Activity order tracking
-<br><br>
+### Software Engineer @ Synology Inc. (Jan 2024 - Aug 2025)  
+- Developed mobile solutions for BeeStation (BeeFiles, BeePhotos, BeeCam), expanding private cloud ecosystem.  
+- Implemented end-to-end test automation reducing manual QA by 60%.  
+- Integrated large language models (LLM) in CI/CD to auto-generate test code, improving coverage to 20%.  
+- Led workshops for 15+ engineers, standardizing test automation practices.  
+- Modernized architecture by migrating 20,000+ lines of Objective-C to Swift.  
 
-**Software Engineer** @ [CoolBitX](https://coolbitx.com) _(Nov 2021 - Apr 2023)_ <br>
-Early-stage crypto wallet startup
-> Swift, Objective-C, Typescript, React/React Native, Node.js, GraphQL
-  - Decreased the crash rate from 10% to <1% by refining existing Core Data module.
-  - Significantly simplified the workflow of coin integration by modularizing crypto coins, including ETH,  DOT, and ATOM.
-  - Implemented Advanced Encryption Standard (AES) to encrypt user private keys, protecting user sensitive information.
-  - Applied DeepLink to enhance user experience and bring more business collaborations with other applications.
-  - Refactored codes from Objective-C to Swift, and introduced MVVM and Coordinator patterns to increase maintainability and testability.
-  - Hosted a webinar of the Apple Worldwide Developer Conference 2022 (WWDC2022),  unprecedented in the company.
-<br><br>
+### Software Engineer @ Delivery Hero SE (foodpanda) (Jun 2023 - Dec 2023)  
+- Maintained Orders and Developer Experience modules, optimizing usability and productivity.  
+- Designed modular test automation framework with network stubbing, achieving 100% test coverage.  
+- Led cross-team navigation architecture overhaul for seamless rollouts.  
+- Integrated GraphQL code generation for consistent API integration.  
+- Delivered real-time mobile order-tracking widget, winning 1st place in hackathon.  
 
-## ✨ Side project
+### Software Engineer @ CoolBitX Ltd. (Nov 2021 - Apr 2023)  
+- Built and optimized Bluetooth cold crypto wallet mobile app using React Native and Typescript.  
+- Redesigned staking architecture, supporting 13 cryptocurrencies and 5 vendors.  
+- Reduced crash rate from 10% to 0.3% by rebuilding iOS database access layer.  
+- Led crypto launchpad project enabling seamless token launches via Next.js.  
+- Mentored summer intern, supporting professional growth and onboarding.  
 
-**[Picker](https://www.figma.com/exit?url=https%3A%2F%2Fgithub.com%2Fhanlinchentw%2FPickers)** <br>
-A food selection application that helps users explore the nearby restaurants and decide what to eat by lottery wheel. Users can save and manage restaurants in their favorite lists. <br>
-> UIKit + SwiftUI, Combine, MVVM, Moya, Alamofire, CoreData
-<br>
+---
 
-**[My Pokemon](https://github.com/hanlinchentw/MyPokemon)** <br>
-System design practice. Well-Modularized iOS App <br>
-> UIKit, MVVM, Coordinator, Realm
-<br>
+## Projects  
 
-**[Carnival Wallet](https://github.com/hanlinchentw/CarnivalWallet)** <br>
-An Ethereum wallet. Users can import or create wallets and do transactions. <br>
-> UIKit + SwiftUI, MVVM, Coordinator, CoreData, Keychain, AES
-<br>
+- **AweOS** — Microkernel development in C and Assembly supporting interrupts, memory, and process scheduling.  
+- **Mocky** — Mobile test framework enabling zero-code API response mocking for UI tests.  
+- **Picker** — SwiftUI mobile app with Yelp API and Google Maps integration for restaurant discovery and recommendations.  
 
-**[Food delivery optimization](https://www.dropbox.com/s/mwvozbgq6snpt68/Optimize%20the%20Path%20of%20Food%20Delivery.pdf?dl=0)** <br>
-Applied optimization techniques, such as the Monte Carlo and Genetic algorithms, to determine the most effective route and optimize the delivery man's time and fee. <br>
-> MATLAB
+---
 
-<br>
+## Skills  
 
-## ✨ Skill set
-- **Swift/Objective-C**
-  - Frameworks/Tools: UIKit / SwiftUI / RxSwift / Combine
-  - Testing: XCTest / UI Test / [Earl Grey](https://github.com/google/EarlGrey)
-- **TypeScript/JavaScript**
-  - Frameworks/Tools: React / React Native
-  - Testing: Jest
-- **Python**
-- **C++**
-- Other tools: fastlane / Git/Gitflow
-<br><br>
+- Languages: C/C++, Swift, Objective-C, Python, JavaScript, TypeScript, SQL, HTML/CSS, Java  
+- Frameworks & Tools: React, React Native, Redux, Next.js, Node.js, Django, SwiftUI, Jest, GraphQL, Docker, Kubernetes, AWS, Firebase, GitHub Actions, GitLab CI, fastlane  
+- Systems: Unix/Linux, Kernel Development, x86 Assembly, QEMU, GNU toolchains, Arduino, Raspberry Pi, FreeRTOS  
+- Testing: End-to-end and UI automation, CI/CD integration, test mocking  
 
-## 💬 Languages
-
-**English**: Fluent / TOEIC 925 <br>
-**Mandarin**: Native
-<br><br>
-
-## 👨‍🎓 Education
-
-**Master of Science** in Mechnical Engineering<br>
-[National Taiwan University](https://www.ntu.edu.tw) - Taipei, Taiwan _(2019 - 2021)_
-
-**Bachelor of Science** in Mechnical Engineering<br>
-[National Centeral University](https://www.ncu.edu.tw/) - Taoyuan, Taiwan _(2015 - 2019)_
+---
